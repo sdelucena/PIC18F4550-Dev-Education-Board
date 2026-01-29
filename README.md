@@ -28,7 +28,7 @@ Each peripheral has a dedicated test project, focused on clarity and didactic va
 
 ## Hardware Documentation
 
-- **Block Diagram**  
+- **Block Diagram**
   [LV62_Block_Diagram_v1.0.pdf](hardware/block_diagram/LV62_Block_Diagram_v1.0.pdf)
 
 - **Schematics and Board Functional Diagram**  
