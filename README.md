@@ -1,5 +1,7 @@
 # PIC18F4550 Dev-Education Board
 
+![LV62 PIC18F4550 Dev-Education Board](hardware/board_photos/LV62_Overview_Multiple_Boards.jpg)
+
 This project is a development and education board based on the Microchip PIC18F4550,
 designed for both teaching and real firmware development using MPLAB X and the XC8 compiler.
 
