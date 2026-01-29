@@ -28,8 +28,11 @@ Each peripheral has a dedicated test project, focused on clarity and didactic va
 
 ## Hardware Documentation
 
-- Block diagram (PDF)
-- Full schematics (PDF)
+- **Block Diagram**  
+  [LV62_Block_Diagram_v1.0.pdf](hardware/block_diagram/LV62_Block_Diagram_v1.0.pdf)
+
+- **Schematics and Board Functional Diagram**  
+  [LV62_Schematics_and_Board_Functional_Diagram_v1.0.pdf](hardware/schematics/LV62_Schematics_and_Board_Functional_Diagram_v1.0.pdf)
 
 ## Target Audience
 
