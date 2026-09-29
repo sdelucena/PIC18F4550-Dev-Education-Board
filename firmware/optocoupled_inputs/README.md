@@ -58,3 +58,11 @@ The optocoupled inputs were tested using an external 12/24 Vdc field supply and 
 The input indicator LEDs illuminate when the corresponding field input is activated.
 
 The relay outputs are used as visual/functional indication of the detected input states.
+
+## Connection Diagram and Test Setup
+
+The following document shows the connection of two industrial
+pushbuttons to the LV62 optocoupled inputs and a photograph of
+the actual test setup.
+
+[Connection Diagram and Test Setup](LV62_Optocouplers_with_Two_Industrial_Pushbuttons_Diagram_and_Picture_v1.0.pdf)
