@@ -28,6 +28,17 @@ All firmware examples are written in:
 
 Each peripheral has a dedicated test project, focused on clarity and didactic value.
 
+## Firmware Examples
+
+The repository currently includes the following independent firmware examples:
+
+- [Buzzer](firmware/buzzer/) — simple active-low buzzer control.
+- [Relays](firmware/relays/) — control of two onboard relays.
+- [Optocoupled Inputs](firmware/optocoupled_inputs/) — isolated 12/24 Vdc digital inputs.
+- [4-Digit 7-Segment Display](firmware/4_digit_7seg_display/) — 4-digit display control using four HEF4543 BCD-to-7-segment latch/decoder/drivers.
+
+Each example is a self-contained MPLAB X / XC8 project and is intended to demonstrate one hardware function of the LV62 board.
+
 ## Hardware Documentation
 
 - **Block Diagram**
@@ -45,7 +56,7 @@ Each peripheral has a dedicated test project, focused on clarity and didactic va
 
 ## Status
 
-Documentation and firmware examples are being organized and published.
+Documentation and firmware examples are being progressively organized and published.
 
 ## Author
 
