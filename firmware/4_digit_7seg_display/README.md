@@ -25,6 +25,8 @@ To update a digit:
 
 # LV62 4-Digit 7-Segment Display Example
 
+![LV62 4-Digit 7-Segment Display showing 3092 mV](LV62_4_digit_7seg_display_3092mV.png)
+
 This firmware example demonstrates the 4-digit 7-segment LED display provided on the LV62 PIC18F4550 Dev-Education Board.
 
 ## Purpose
