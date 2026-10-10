@@ -1,6 +1,6 @@
 # LV62 4-Digit 7-Segment Display Example
 
-![LV62 4-Digit Display Showing 3092 mV](LV62_4_digit_display_showing_3092mV.png)
+![LV62 4-Digit Display Showing 3092 mV](LV62_4_digit_display_showing_3092_mV.png)
 
 This firmware example demonstrates the 4-digit 7-segment LED display provided on the LV62 PIC18F4550 Dev-Education Board.
 
