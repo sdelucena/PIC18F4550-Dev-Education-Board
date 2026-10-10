@@ -1,31 +1,8 @@
 # LV62 4-Digit 7-Segment Display Example
 
-![LV62 4-Digit Display Showing 3092 mV](LV62_4_digit_display_showing_3092_mV.png)
+<img src="LV62_4_digit_display_showing_3092_mV.png" alt="LV62 4-Digit Display Showing 3092 mV" width="500">
 
 This firmware example demonstrates the 4-digit 7-segment LED display provided on the LV62 PIC18F4550 Dev-Education Board.
-
-Purpose
-Hardware
-Display Interface
-Operation
-Software
-Bootloader Warning
-Tested Configuration
-
-RD3..RD0   BCD data
-RD7        Thousands latch
-RD6        Hundreds latch
-RD5        Tens latch
-RD4        Units latch
-
-Latch Disable = 0 → normal state
-
-To update a digit:
-
-1. Put the BCD value on RD3..RD0.
-2. Set the corresponding latch control HIGH.
-3. Wait 100 µs.
-4. Return the latch control LOW.
 
 ## Purpose
 
