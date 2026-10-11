@@ -8,6 +8,7 @@ designed for both teaching and real firmware development using MPLAB X and the X
 The board provides access to the main peripherals of the PIC18 architecture and is intended
 for hands-on learning at register level, without hiding details behind high-level libraries.
 
+
 ## Main Features
 
 - Microcontroller: PIC18F4550
@@ -19,6 +20,7 @@ for hands-on learning at register level, without hiding details behind high-leve
 - On-board clock circuitry
 - Regulated power supply
 - ICSP programming/debug support
+
 
 ## Firmware
 
@@ -37,9 +39,10 @@ The following examples demonstrate the LV62 board's peripherals and user interfa
 - [Relays](firmware/relays/README.md) — control of two onboard relays.
 - [Optocoupled Inputs](firmware/optocoupled_inputs/README.md) — isolated 12/24 Vdc digital inputs.
 - [4-Digit 7-Segment Display](firmware/4_digit_7seg_display/README.md) — 4-digit display control using four HEF4543 BCD-to-7-segment latch/decoder/drivers.
-- [6-Key ADC Keyboard](firmware/6_key_adc_keyboard/README.md)
+- [6-Key ADC Keyboard](firmware/6_key_adc_keyboard/README.md) — six-key ADC keyboard with press confirmation and release debounce.
 
 Each example is a self-contained MPLAB X / XC8 project and is intended to demonstrate one hardware function of the LV62 board.
+
 
 ## Hardware Documentation
 
@@ -49,6 +52,7 @@ Each example is a self-contained MPLAB X / XC8 project and is intended to demons
 - **Schematics and Board Functional Diagram**  
   [LV62_Schematics_and_Board_Functional_Diagram_v1.0.pdf](hardware/schematics/LV62_Schematics_and_Board_Functional_Diagram_v1.0.pdf)
 
+
 ## Target Audience
 
 - Engineering and technical students
@@ -56,9 +60,11 @@ Each example is a self-contained MPLAB X / XC8 project and is intended to demons
 - Embedded systems developers and hobbyists
 - Anyone interested in low-level PIC microcontroller programming
 
+
 ## Status
 
 Documentation and firmware examples are being progressively organized and published.
+
 
 ## Author
 
