@@ -33,20 +33,11 @@ Each peripheral has a dedicated test project, focused on clarity and didactic va
 
 The following examples demonstrate the LV62 board's peripherals and user interface:
 
-- [Buzzer](firmware/buzzer/README.md)
-- [Relays](firmware/relays/README.md)
-- [Optocoupled Inputs](firmware/optocoupled_inputs/README.md)
-- [4-Digit 7-Segment Display](firmware/4_digit_7seg_display/README.md)
+- [Buzzer](firmware/buzzer/README.md) — simple active-low buzzer control.
+- [Relays](firmware/relays/README.md) — control of two onboard relays.
+- [Optocoupled Inputs](firmware/optocoupled_inputs/README.md) — isolated 12/24 Vdc digital inputs.
+- [4-Digit 7-Segment Display](firmware/4_digit_7seg_display/README.md) — 4-digit display control using four HEF4543 BCD-to-7-segment latch/decoder/drivers.
 - [6-Key ADC Keyboard](firmware/6_key_adc_keyboard/README.md)
-
-## Firmware Examples
-
-The repository currently includes the following independent firmware examples:
-
-- [Buzzer](firmware/buzzer/) — simple active-low buzzer control.
-- [Relays](firmware/relays/) — control of two onboard relays.
-- [Optocoupled Inputs](firmware/optocoupled_inputs/) — isolated 12/24 Vdc digital inputs.
-- [4-Digit 7-Segment Display](firmware/4_digit_7seg_display/) — 4-digit display control using four HEF4543 BCD-to-7-segment latch/decoder/drivers.
 
 Each example is a self-contained MPLAB X / XC8 project and is intended to demonstrate one hardware function of the LV62 board.
 
