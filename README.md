@@ -28,6 +28,17 @@ All firmware examples are written in:
 
 Each peripheral has a dedicated test project, focused on clarity and didactic value.
 
+
+### Firmware Examples
+
+The following examples demonstrate the LV62 board's peripherals and user interface:
+
+- [Buzzer](firmware/buzzer/README.md)
+- [Relays](firmware/relays/README.md)
+- [Optocoupled Inputs](firmware/optocoupled_inputs/README.md)
+- [4-Digit 7-Segment Display](firmware/4_digit_7seg_display/README.md)
+- [6-Key ADC Keyboard](firmware/6_key_adc_keyboard/README.md)
+
 ## Firmware Examples
 
 The repository currently includes the following independent firmware examples:
