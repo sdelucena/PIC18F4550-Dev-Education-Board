@@ -40,6 +40,7 @@ The following examples demonstrate the LV62 board's peripherals and user interfa
 - [Optocoupled Inputs](firmware/optocoupled_inputs/README.md) — isolated 12/24 Vdc digital inputs.
 - [4-Digit 7-Segment Display](firmware/4_digit_7seg_display/README.md) — 4-digit display control using four HEF4543 BCD-to-7-segment latch/decoder/drivers.
 - [6-Key ADC Keyboard](firmware/6_key_adc_keyboard/README.md) — six-key ADC keyboard with press confirmation and release debounce.
+- [4x16 Text-Mode GLCD (ST7920)](firmware/4x16_text_mode_glcd/) — Demonstrates 4-line × 16-character text output on an ST7920 display.
 
 Each example is a self-contained MPLAB X / XC8 project and is intended to demonstrate one hardware function of the LV62 board.
 
