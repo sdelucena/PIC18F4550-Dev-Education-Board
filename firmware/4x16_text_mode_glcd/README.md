@@ -56,3 +56,12 @@ The program initializes the ST7920 display and writes text to its four 16-charac
 ## License
 
 Refer to the repository's license, if applicable.
+
+## Photograph
+
+<p align="center">
+  <img src="images/lv62_st7920_text_mode.jpg"
+       alt="LV62 displaying text on the ST7920 GLCD"
+       width="400">
+</p>
+
